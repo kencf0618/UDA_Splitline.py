@@ -14,3 +14,5 @@ Topoynyms: Woodward, Fischer, Powell, USGS quads, what3words.
 
 Possible results:
 The map matches much of the territory, including demographics.
+
+Note that this has no save or checkpoint.
